@@ -11,7 +11,6 @@ def fuction_1(*args):
 function_1("harry",22,3455)
 
 
-
 #for key value pair we used kwargs
 def printmarks(**kwargs):
     print(type(kwargs))
